@@ -14,11 +14,13 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "How it works",
+              "Workflow Overview",
+              "Service Scheduling",
+              "Payment & Charges",
+              "Product Import"
             ]
           },
           {
